@@ -1,1 +1,2 @@
-This project is a html5 rendition of Hunt the Wumpus
+This project is a html5 rendition of Hunt the Wumpus.  In order for the game to actually be run, it must be run on an apache server.
+I use xampp, and throw the folder into the htdocs section.  Then just run apache and access it.
