@@ -1,0 +1,1 @@
+This project is a html5 rendition of Hunt the Wumpus
